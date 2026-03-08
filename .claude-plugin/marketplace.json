@@ -3,7 +3,8 @@
   "name": "mosaic-marketplace",
   "description": "Claude Code plugin marketplace for Mosaic — DCVE methodology for systematic project planning and execution with agent teams",
   "owner": {
-    "name": "factorshin"
+    "name": "factorshin",
+    "email": "factor.shin@gmail.com"
   },
   "plugins": [
     {
@@ -11,7 +12,8 @@
       "description": "Structured design-to-implementation process for complex projects using DCVE (Diverge-Converge-Verify-Execute) methodology with Claude Code agent teams",
       "version": "1.0.0",
       "author": {
-        "name": "factorshin"
+        "name": "factorshin",
+        "email": "factor.shin@gmail.com"
       },
       "source": {
         "source": "url",

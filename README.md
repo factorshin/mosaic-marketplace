@@ -13,8 +13,12 @@ Claude Code plugin marketplace for **Mosaic** — DCVE (Diverge · Converge · V
 ### 2. Install the plugin
 
 ```
-claude plugin install mosaic
+/plugin install mosaic@mosaic-marketplace
 ```
+
+### 3. Verify
+
+Start a new session and type `/dcve`, or describe a project to build from scratch to verify the skill triggers.
 
 ## Available Plugins
 
