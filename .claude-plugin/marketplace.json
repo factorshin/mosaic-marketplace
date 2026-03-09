@@ -10,7 +10,7 @@
     {
       "name": "mosaic",
       "description": "Structured design-to-implementation process for complex projects using DCVE (Diverge-Converge-Verify-Execute) methodology with Claude Code agent teams",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "factorshin",
         "email": "factor.shin@gmail.com"
