@@ -1,6 +1,6 @@
 # Mosaic Marketplace
 
-Claude Code plugin marketplace for **Mosaic** — DCVE (Diverge · Converge · Verify · Execute) methodology for systematic project planning and execution with agent teams.
+Claude Code plugin marketplace for **Mosaic** — DCVE methodology for systematic project planning, and Discuss for multi-perspective debate and decision-making — both powered by Claude Code agent teams.
 
 ## Installation
 
@@ -18,23 +18,26 @@ Claude Code plugin marketplace for **Mosaic** — DCVE (Diverge · Converge · V
 
 ### 3. Verify
 
-Start a new session and type `/dcve`, or describe a project to build from scratch to verify the skill triggers.
+Start a new session and type `/mosaic:run-dcve` or `/mosaic:run-discuss` to verify the skills trigger.
 
 ## Available Plugins
 
-| Plugin | Description |
-|--------|-------------|
-| **mosaic** | Structured design-to-implementation process for complex projects using DCVE methodology |
+| Plugin | Skills | Description |
+|--------|--------|-------------|
+| **mosaic** | DCVE, Discuss | Structured project planning (DCVE) and multi-perspective debate for decision-making (Discuss) |
 
 ## Usage
 
-After installation, start a new session and type:
+After installation, start a new session and use:
 
 ```
-/dcve
+/mosaic:run-dcve     # Start a DCVE cycle for project planning & execution
+/mosaic:run-discuss  # Start a multi-perspective discussion & debate
 ```
 
-Or describe your project naturally — the skill triggers automatically when you want to build a new project, service, or platform from scratch.
+Or describe your intent naturally — skills trigger automatically:
+- **DCVE**: "I want to build a new project from scratch", "design a new system"
+- **Discuss**: "help me decide between X and Y", "discuss pros and cons"
 
 ## Requirements
 

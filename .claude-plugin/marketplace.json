@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "mosaic-marketplace",
-  "description": "Claude Code plugin marketplace for Mosaic — DCVE methodology for systematic project planning and execution with agent teams",
+  "description": "Claude Code plugin marketplace for Mosaic — DCVE methodology for systematic project planning, and Discuss for multi-perspective debate and decision-making — both powered by Claude Code agent teams",
   "owner": {
     "name": "factorshin",
     "email": "factor.shin@gmail.com"
@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "mosaic",
-      "description": "Structured design-to-implementation process for complex projects using DCVE (Diverge-Converge-Verify-Execute) methodology with Claude Code agent teams",
-      "version": "1.0.2",
+      "description": "DCVE methodology for systematic project planning, and Discuss for multi-perspective debate and decision-making — both powered by Claude Code agent teams",
+      "version": "1.1.0",
       "author": {
         "name": "factorshin",
         "email": "factor.shin@gmail.com"
