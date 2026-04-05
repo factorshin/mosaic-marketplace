@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "mosaic-marketplace",
-  "description": "Claude Code plugin marketplace for Mosaic — DCVE methodology for systematic project planning, and Discuss for multi-perspective debate and decision-making — both powered by Claude Code agent teams",
+  "description": "Mosaic: Claude Code skills that orchestrate multi-agent teams for the preparation work — project planning (DCVE), decision debates (Discuss), and brownfield team bootstrapping (Assemble)",
   "owner": {
     "name": "factorshin",
     "email": "factor.shin@gmail.com"
@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "mosaic",
-      "description": "DCVE methodology for systematic project planning, and Discuss for multi-perspective debate and decision-making — both powered by Claude Code agent teams",
-      "version": "1.1.2",
+      "description": "Mosaic: Claude Code skills that orchestrate multi-agent teams for the preparation work — project planning (DCVE), decision debates (Discuss), and brownfield team bootstrapping (Assemble)",
+      "version": "1.2.0",
       "author": {
         "name": "factorshin",
         "email": "factor.shin@gmail.com"
